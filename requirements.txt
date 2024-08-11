@@ -1,5 +1,9 @@
 gensim==4.3.3
 lambeq==0.4.1
 nltk==3.8.1
-numpy==2.0.1
 pandas==2.2.2
+qiskit_machine_learning==0.7.2
+discopy==1.1.7
+pytket==1.30.0
+pytket-qiskit==0.55.0
+qiskit-optimization==0.6.1
